@@ -1,3 +1,3 @@
 # Asteroids Game in Python 
 
-Let's have soem fun build a simple Asteroids game in Python. 
+Let's have some fun building a simple Asteroids game in Python. 
